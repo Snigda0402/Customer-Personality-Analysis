@@ -2,11 +2,11 @@
 
 ## Skills/Tools Used:
 
-### For Part1 - 
+####  For Part1 - 
 1. R Programming Language 
 2. Unsupervised modelling
 
-### For Part2 - 
+####  For Part2 - 
 1. Python Programming Language
 2. Supervised/Prediction modelling
    
